@@ -1,0 +1,3 @@
+[submodule "PublicLib"]
+	path = PublicLib
+	url = git@github.com:ThisSummerRace/PublicLib.git
